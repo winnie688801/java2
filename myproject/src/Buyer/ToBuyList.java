@@ -19,7 +19,7 @@ public class ToBuyList {
 			
 			if (c==1) {
 				System.out.print("Please enter the product:");
-				product = s.nextLine();
+				product = s.next();
 				s.nextLine();
 				System.out.print("Please enter the quantity:");
 				quantity = s.nextInt();
@@ -27,7 +27,7 @@ public class ToBuyList {
 			}
 			if (c==2) {
 				for (Item i:l) {
-				System.out.println(i.product);
+				System.out.println(i.product + "\t" + i.quantity);
 				}
 			}
 			else if (c!=1&&c!=2) {
