@@ -11,6 +11,7 @@ public class ListFreq {
 		List<Integer> l = new ArrayList<>();
 		for (int i=0; i<20; i++) {
 			l.add(0);
+		
 		}
 		for (int i=0; i<10000; i++) {
 			int num = r.nextInt(20);
