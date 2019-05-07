@@ -1,4 +1,4 @@
-package Buyer;
+package com.buyer;
 
 import java.util.ArrayList;
 import java.util.List;
