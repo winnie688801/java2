@@ -1,0 +1,6 @@
+Jack 10 hr
+Jill 8 hr
+Kelly 9 hr
+Will 10 hr + 2 hr
+George 8 hr + 4 hr
+Ken 6 hr
